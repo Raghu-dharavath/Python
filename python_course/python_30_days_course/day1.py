@@ -2,11 +2,6 @@
 
 # #### Introduction to python ##########
 
-# # 1.
-# # 2. 
-# # 3.guido van rossum
-# # 4. 
-# # 5.Inerpreter
 
 # ###### Features ######
 
@@ -22,7 +17,7 @@
 
 # ########## disadvantages #######
 
-# ###### python and Java #######
+# ###### diff btw python and Java #######
 
 # ########## python tokens #######
 # # 1.keywords
